@@ -45,6 +45,7 @@ function App() {
               name="IPhone"
               description="iPhone combines Apple’s fastest, a versatile triple-lens camera system for stunning low-light photos, and a lightweight titanium frame for exceptional durability."
               price="$999"
+              featureList={["Medium Screen", "Excelent Life battery"]}
               img="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-product-cards/img2.webp"
             />
           </div>
@@ -53,6 +54,8 @@ function App() {
               name="IPhone"
               description="iPhone combines Apple’s fastest, a versatile triple-lens camera system for stunning low-light photos, and a lightweight titanium frame for exceptional durability."
               price="$799"
+              featureList={["Medium Screen", "Excelent Life battery"]}
+
               img="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-product-cards/img3.webp"
             />
           </div>
@@ -61,6 +64,8 @@ function App() {
               name="IPhone"
               description="iPhone combines Apple’s fastest, a versatile triple-lens camera system for stunning low-light photos, and a lightweight titanium frame for exceptional durability."
               price="$1199"
+              featureList={["Medium Screen", "Excelent Life battery"]}
+
               img="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-product-cards/img1.webp"
             />
           </div>
@@ -69,6 +74,8 @@ function App() {
               name="IPhone"
               description="Apple Computer revolutionized personal computing with its groundbreaking Macintosh line, setting new standards for intuitive design, performance, and user-friendly interfaces."
               price="$4999"
+              featureList={["Medium Screen", "Excelent Life battery"]}
+
               img="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/3.webp"
             />
           </div>
